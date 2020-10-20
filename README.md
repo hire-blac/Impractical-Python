@@ -1,1 +1,1 @@
-# Impractical-Python
+# MyImpracticalPython
